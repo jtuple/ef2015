@@ -1,0 +1,5 @@
+ebin
+*.so
+*.o
+*.d
+.rebar
