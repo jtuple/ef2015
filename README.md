@@ -9,4 +9,9 @@ https://www.youtube.com/watch?v=pfp8FrORV68&index=24&list=PLWbHc_FXPo2h0sJW6X2RZ
 Slides:
 https://speakerdeck.com/jtuple/data-structure-adventures-for-fun-profit-and-performance
 
-***Code coming soon, stay tuned.***
+
+Code:
+
+Stats/histogram code: https://github.com/jtuple/ef2015/tree/jtstat
+
+***Other code coming soon, stay tuned.***
